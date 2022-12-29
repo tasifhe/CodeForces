@@ -1,3 +1,5 @@
+//Solved by Tasif Hossain Emon
+ //Student of SMUCT //BATCH 29th //ID:221071042
 s = input()
 c = 0
 for x in s:
