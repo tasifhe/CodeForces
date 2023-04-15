@@ -1,0 +1,1 @@
+{"name":"Local: Matrix of Differences","url":"d:\\GitClones\\CodeForces\\Matrix of Differences.cpp","tests":[{"id":1673191369464,"input":"2\n2\n3","output":"1 3\n4 2\n1 3 4\n9 2 7\n5 8 6"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\GitClones\\CodeForces\\Matrix of Differences.cpp","group":"local","local":true}

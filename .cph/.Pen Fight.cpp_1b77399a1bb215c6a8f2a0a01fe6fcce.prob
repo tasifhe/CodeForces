@@ -1,0 +1,1 @@
+{"name":"Local: Pen Fight","url":"d:\\GitClones\\CodeForces\\Pen Fight.cpp","tests":[{"id":1676044479385,"input":"1 \n5 \n3 4 5 8 7 \n3 \n1 1 2 \n2 2 \n3 1","output":"2\n2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\GitClones\\CodeForces\\Pen Fight.cpp","group":"local","local":true}

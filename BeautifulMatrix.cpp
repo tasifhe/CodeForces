@@ -1,7 +1,7 @@
 //Solved by Tasif Hossain Emon
 //Student of SMUCT //BATCH 29th //ID:221071042
 
-//Beautiful Matrix//Accepted Solution
+//*Beautiful Matrix//Accepted Solution
 #include<iostream>
 
 using namespace std;

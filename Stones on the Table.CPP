@@ -1,7 +1,8 @@
 //Solved by Tasif Hossain Emon
- //Student of SMUCT //BATCH 29th //ID:221071042
+//Student of SMUCT //BATCH 29th //ID:221071042
+
+//*Stones on the Table//Accepted Solution
 #include<bits/stdc++.h>
-#include<string>
 
 using namespace std;
 
