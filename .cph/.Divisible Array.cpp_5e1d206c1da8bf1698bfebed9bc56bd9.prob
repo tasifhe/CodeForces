@@ -1,0 +1,1 @@
+{"name":"Local: Divisible Array","url":"d:\\GitClones\\CodeForces\\Divisible Array.cpp","tests":[{"id":1684077774237,"input":"7\n1\n2\n3\n4\n5\n6\n7","output":"1\n2 4\n1 2 3\n2 8 6 4\n3 4 9 4 5\n1 10 18 8 5 36\n3 6 21 24 10 6 14"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\GitClones\\CodeForces\\Divisible Array.cpp","group":"local","local":true}

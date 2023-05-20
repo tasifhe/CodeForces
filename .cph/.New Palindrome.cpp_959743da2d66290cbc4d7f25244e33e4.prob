@@ -1,0 +1,1 @@
+{"name":"Local: New Palindrome","url":"d:\\GitClones\\CodeForces\\New Palindrome.cpp","tests":[{"id":1684002231206,"input":"3\ncodedoc\ngg\naabaa","output":"YES\nNO\nNO"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\GitClones\\CodeForces\\New Palindrome.cpp","group":"local","local":true}
