@@ -1,3 +1,7 @@
+//Solved by Tasif Hossain Emon
+//Student of SMUCT //BATCH 29th //ID:221071042
+
+//*Jumps //Accepted Solution
 #include<bits/stdc++.h>
 #include<math.h>
 
