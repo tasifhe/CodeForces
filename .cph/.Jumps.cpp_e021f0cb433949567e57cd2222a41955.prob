@@ -1,0 +1,1 @@
+{"name":"Local: Jumps","url":"d:\\GitClones\\CodeForces\\Jumps.cpp","tests":[{"id":1689651731329,"input":"5\n1\n2\n3\n4\n5","output":"1\n3\n2\n3\n4"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\GitClones\\CodeForces\\Jumps.cpp","group":"local","local":true}
