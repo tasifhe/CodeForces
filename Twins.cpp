@@ -2,8 +2,10 @@
 //Student of SMUCT //BATCH 29th //ID:221071042
 
 //*Twins//Accepted Solution
-#include<bits/stdc++.h>
+#include <bits/stdc++.h>
 using namespace std;
+ 
+#define superfast ios_base::sync_with_stdio(0);cin.tie(0);cout.tie(0);
 
 int main()
 {

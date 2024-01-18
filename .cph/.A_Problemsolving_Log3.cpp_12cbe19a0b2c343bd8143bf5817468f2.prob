@@ -1,0 +1,1 @@
+{"name":"Local: A_Problemsolving_Log3","url":"d:\\GitClones\\CodeForces\\A_Problemsolving_Log3.cpp","tests":[{"id":1703000906286,"input":"3\n6\nACBCBC\n7\nAAAAFPC\n22\nFEADBBDFFEDFFFDHHHADCC","output":"3\n1\n4"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\GitClones\\CodeForces\\A_Problemsolving_Log3.cpp","group":"local","local":true}

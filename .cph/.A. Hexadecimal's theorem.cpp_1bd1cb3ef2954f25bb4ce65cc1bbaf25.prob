@@ -1,0 +1,1 @@
+{"name":"Local: A","url":"d:\\GitClones\\CodeForces\\A. Hexadecimal's theorem.cpp","tests":[{"id":1699380806373,"input":"3","output":"1 1 1"},{"id":1699380815166,"input":"13","output":"2 3 8"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\GitClones\\CodeForces\\A. Hexadecimal's theorem.cpp","group":"local","local":true}

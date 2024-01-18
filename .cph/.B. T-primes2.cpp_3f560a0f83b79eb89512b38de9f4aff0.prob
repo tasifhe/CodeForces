@@ -1,0 +1,1 @@
+{"name":"Local: B","url":"d:\\GitClones\\CodeForces\\B. T-primes2.cpp","tests":[{"id":1699472323039,"input":"5\n4 5 6 7 8","output":"YES\nNO\nNO\nNO\nNO"},{"id":1699602789279,"input":"3\n4 5 6","output":"YES\nNO\nNO"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\GitClones\\CodeForces\\B. T-primes2.cpp","group":"local","local":true}
